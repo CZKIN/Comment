@@ -1,2 +1,2 @@
 # Comment
-http://notes.czkin.cn/
+http://czkin.cn/
